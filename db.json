@@ -1,0 +1,21 @@
+{
+    "books": [{
+            "id": "1",
+            "Name": "1",
+            "Authors": "А",
+            "Pages": "100"
+        },
+        {
+            "id": "2",
+            "Name": "2",
+            "Authors": "B",
+            "Pages": "200"
+        },
+        {
+            "id": "3",
+            "Name": "3",
+            "Authors": "C",
+            "Pages": "300"
+        }
+    ]
+}
